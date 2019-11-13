@@ -1,0 +1,4 @@
+{
+    "connectionString": "mongodb://ec2-13-59-163-9.us-east-2.compute.amazonaws.com:27017/ng8crud",
+    "secret": "REPLACE THIS WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
+}
